@@ -1,1 +1,1 @@
-# Array-functions
+# Arrays-function
